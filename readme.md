@@ -1,6 +1,6 @@
 # Simple Go GraphQL Application
 
-This is a simple application built in Go to help you learn GraphQL basics.
+This is a simple application built in Go to learn GraphQL basics.
 
 ## Overview
 
